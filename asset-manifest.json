@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Text-Speaker/static/css/main.03423d11.css",
-    "main.js": "/Text-Speaker/static/js/main.c4ce7f6b.js",
+    "main.css": "/Text-Speaker/static/css/main.9f934c44.css",
+    "main.js": "/Text-Speaker/static/js/main.2bd49f10.js",
     "static/js/787.286b8775.chunk.js": "/Text-Speaker/static/js/787.286b8775.chunk.js",
     "index.html": "/Text-Speaker/index.html",
-    "main.03423d11.css.map": "/Text-Speaker/static/css/main.03423d11.css.map",
-    "main.c4ce7f6b.js.map": "/Text-Speaker/static/js/main.c4ce7f6b.js.map",
+    "main.9f934c44.css.map": "/Text-Speaker/static/css/main.9f934c44.css.map",
+    "main.2bd49f10.js.map": "/Text-Speaker/static/js/main.2bd49f10.js.map",
     "787.286b8775.chunk.js.map": "/Text-Speaker/static/js/787.286b8775.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.03423d11.css",
-    "static/js/main.c4ce7f6b.js"
+    "static/css/main.9f934c44.css",
+    "static/js/main.2bd49f10.js"
   ]
 }
