@@ -1,70 +1,35 @@
-# Getting Started with Create React App
+# Text Speaker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+Text Speaker is a web application designed to convert typed text into spoken words, enhancing accessibility and providing a unique way to interact with written content. Built with React.js and styled with CSS, this application offers a clean and intuitive user interface where users can easily input text and have it read aloud at the click of a button.
 
-## Available Scripts
+## Features
+- **Text-to-Speech**: Converts any entered text into audible speech.
+- **User-friendly Interface**: Simple and intuitive design for easy navigation and use.
+- **Customizable Speech Options**: Allows users to adjust the speech rate and pitch (if functionality added).
 
-In the project directory, you can run:
+## Technologies Used
+- **React.js**: A JavaScript library for building user interfaces.
+- **CSS**: Used for styling the application to provide a pleasant user interface.
+- **Web Speech API**: Utilizes the browser's native Text-to-Speech capabilities.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Prerequisites
+- Node.js installed on your machine.
+- A modern web browser that supports the Web Speech API.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Installation
+1. Clone the repository to your local machine:
+   ```sh
+   git clone https://izhar-pasha.github.io/Text-Speaker/
+Usage
+To use Text Speaker, simply:
 
-### `npm test`
+Enter the text you wish to hear in the input field.
+Click the "Speak" button to hear the text read aloud.
+Contributing
+Contributions to enhance Text Speaker are welcome. Feel free to fork the repository and submit pull requests.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+License
+Text Speaker is open-sourced software licensed under the MIT license.
